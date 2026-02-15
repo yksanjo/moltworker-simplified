@@ -1,0 +1,6 @@
+name = "simple-kimi-ai"
+main = "simple-kimi-worker.js"
+compatibility_date = "2025-05-06"
+
+[vars]
+MOLTBOT_GATEWAY_TOKEN = "JkfgoLoib1JwJmYkjmYRQchMTeBlsqKc"
