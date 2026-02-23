@@ -1,5 +1,12 @@
 # moltworker-simplified
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/moltworker-simplified/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/moltworker-simplified/actions)
+![License](https://img.shields.io/github/license/yksanjo/moltworker-simplified)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/moltworker-simplified)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/moltworker-simplified)
+
 ## Detailed Description
 
 moltworker-simplified is maintained as an industry-grade software project with production-ready engineering practices.  
